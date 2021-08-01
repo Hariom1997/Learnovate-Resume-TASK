@@ -46,13 +46,14 @@ body{
 .links{
     display:flex;
     padding: 20px;
+    text-align:center;
 }
 .links .sub-links1{
-    width: 28%;
+    width: 30%;
     font-size:25px;
 }
 .links .sub-links2{
-    width: 40%;
+    width: 55%;
     font-size:25px;
 }
 .links .sub-links3{
